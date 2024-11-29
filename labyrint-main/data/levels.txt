@@ -1,0 +1,4 @@
+start:map1.txt
+aSharpPlace:sharp.txt
+thirdroom:thirdroom.txt
+pauseScreen:pauseScreen.txt
